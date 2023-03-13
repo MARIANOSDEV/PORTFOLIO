@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio profesional Mariano Ezequiel Sanchez",
+  "main": "main.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d source"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MARIANOSDEV/PORTFOLIO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MARIANOSDEV/PORTFOLIO/issues"
+  },
+  "homepage": "https://github.com/MARIANOSDEV/PORTFOLIO#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
