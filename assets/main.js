@@ -41,6 +41,9 @@ function fnGallerySkills() {
         <span aria-hidden="true" class="absolute inset-0"></span>
         ${element.title}
       </h2>
+      <h3 class="text-m text-grey-700">
+        ${element.lowDesc}
+      </h3>
     </div>`
     $GallerySkills.append(setGallerySkills)
   }
